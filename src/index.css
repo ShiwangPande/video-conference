@@ -5,3 +5,9 @@
 * {
   font-family: "Poppins", sans-serif;
 }
+
+@media screen and (max-width: 768px) {
+  .logo_text {
+    display: none;
+  }
+}
